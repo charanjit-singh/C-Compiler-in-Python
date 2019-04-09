@@ -1,3 +1,4 @@
+
 void Grammar::ParseString(vector<GrammarSymbol> str)
 {
     int i,j,k,l,temp;
