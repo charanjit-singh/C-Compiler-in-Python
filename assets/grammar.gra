@@ -1,0 +1,3 @@
+S : A | B;
+A : 'a' 'b' 'a' | EPSILON;
+B : 'a' 'b' 'b' 'a' | EPSILON;
